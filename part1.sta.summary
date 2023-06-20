@@ -1,0 +1,133 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -5.209
+TNS   : -4874.792
+
+Type  : Slow 1100mV 85C Model Setup 'clk_sampler:clock_maker|clk_10khz'
+Slack : -1.646
+TNS   : -21.471
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.013
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clk_sampler:clock_maker|clk_10khz'
+Slack : 0.330
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -2.174
+TNS   : -6738.194
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk_sampler:clock_maker|clk_10khz'
+Slack : -0.394
+TNS   : -12.120
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'my_clock_gen|DE_Clock_Generator_Audio|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 18.188
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -5.138
+TNS   : -4008.872
+
+Type  : Slow 1100mV 0C Model Setup 'clk_sampler:clock_maker|clk_10khz'
+Slack : -1.737
+TNS   : -22.712
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -0.381
+TNS   : -21.472
+
+Type  : Slow 1100mV 0C Model Hold 'clk_sampler:clock_maker|clk_10khz'
+Slack : 0.329
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -2.174
+TNS   : -6711.303
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk_sampler:clock_maker|clk_10khz'
+Slack : -0.394
+TNS   : -12.384
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'my_clock_gen|DE_Clock_Generator_Audio|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 18.191
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -2.987
+TNS   : -3149.935
+
+Type  : Fast 1100mV 85C Model Setup 'clk_sampler:clock_maker|clk_10khz'
+Slack : -0.586
+TNS   : -7.243
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.033
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clk_sampler:clock_maker|clk_10khz'
+Slack : 0.121
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -2.174
+TNS   : -6780.382
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk_sampler:clock_maker|clk_10khz'
+Slack : -0.124
+TNS   : -1.968
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'my_clock_gen|DE_Clock_Generator_Audio|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 17.854
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -2.689
+TNS   : -2229.608
+
+Type  : Fast 1100mV 0C Model Setup 'clk_sampler:clock_maker|clk_10khz'
+Slack : -0.543
+TNS   : -6.434
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -0.253
+TNS   : -17.758
+
+Type  : Fast 1100mV 0C Model Hold 'clk_sampler:clock_maker|clk_10khz'
+Slack : 0.105
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -2.174
+TNS   : -6910.728
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk_sampler:clock_maker|clk_10khz'
+Slack : -0.101
+TNS   : -1.600
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'my_clock_gen|DE_Clock_Generator_Audio|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.322
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 17.804
+TNS   : 0.000
+
+------------------------------------------------------------
